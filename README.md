@@ -1,6 +1,6 @@
 # OOP1 C++ Assignments
 
-The above repository contains my weekly Object-Oriented Programming assignments in C++. 
+The above repository contains my weekly Object-Oriented Programming 1 assignments in C++. 
 
 ## 👤 Author Details
 * Name:   Bradly Okoth
