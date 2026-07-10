@@ -1,7 +1,8 @@
 /*
  * ============================================================
- * OOP 1 (C++) – Week 3, Task 2
  * Water Billing System Using Functions
+ * BCS-05-0044/2025
+ * Bradly Okoth
  * ============================================================
  * Description:
  *   Calculates a customer's monthly water bill using modular
