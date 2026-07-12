@@ -1,6 +1,8 @@
 /*
  * ============================================================
- * OOP 1 (C++) – Week 6, Task 1
+ * BCS-05-0044/2025
+ * Bradly Okoth
+ * 
  * Library Book Management System (Classes and Objects)
  * ============================================================
  * Description:
